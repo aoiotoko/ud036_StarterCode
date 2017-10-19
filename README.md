@@ -11,7 +11,7 @@ This application creates a website that shows a list of movie posters with their
 ## How to run the program:
 Python 2.7 must be installed in your computer. Download and Installation instructions for Python can be found at [https://www.python.org](https://www.python.org). 
 
-After Python 2.7 is installed, visit my github repository [https://github.com/aoiotoko/ud036_StarterCode](here) and click the "Clone or Download" button to download a copy of the project files to your computer. Once downloaded, extract all the files.
+After Python 2.7 is installed, visit my github repository [https://github.com/aoiotoko/ud036_StarterCode] and click the "Clone or Download" button to download a copy of the project files to your computer. Once downloaded, extract all the files.
 You can then open the file 'entertainment_center.py' to create and visualize the movie trailer website in the default browser. Any modern browser will display the site correctly, however, it may not work properly in Internet Explorer.
 
 ## Latest version:
